@@ -26,6 +26,6 @@ Requirements
     - anchor
     - img
     - img nested in an anchor tag to create an image that acts a hyperlink
-    - ordered list or unordered list `<ol>
+    - ordered list or unordered list
     - form element containing a text input, a set of checkboxes, and a set of radio buttons
     
